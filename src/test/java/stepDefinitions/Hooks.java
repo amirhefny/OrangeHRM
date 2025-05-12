@@ -26,7 +26,7 @@ public class Hooks {
 
     @After
     public void close(){
-        // teardown();
+         teardown();
     }
 
 }
